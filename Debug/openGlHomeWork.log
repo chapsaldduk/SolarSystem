@@ -1,0 +1,73 @@
+﻿  imageloader.cpp
+  main.cpp
+E:\DWD\Users\Desktop\University\3학년 2학기\OpenGlHw\main.cpp(26,36): warning C4244: '인수': 'double'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\DWD\Users\Desktop\University\3학년 2학기\OpenGlHw\main.cpp(26,29): warning C4244: '인수': 'double'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\DWD\Users\Desktop\University\3학년 2학기\OpenGlHw\main.cpp(37,29): warning C4244: '인수': 'double'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\DWD\Users\Desktop\University\3학년 2학기\OpenGlHw\main.cpp(37,23): warning C4244: '인수': 'double'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\DWD\Users\Desktop\University\3학년 2학기\OpenGlHw\main.cpp(45,35): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+E:\DWD\Users\Desktop\University\3학년 2학기\OpenGlHw\main.cpp(47,39): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+E:\DWD\Users\Desktop\University\3학년 2학기\OpenGlHw\main.cpp(48,39): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+E:\DWD\Users\Desktop\University\3학년 2학기\OpenGlHw\main.cpp(49,39): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+E:\DWD\Users\Desktop\University\3학년 2학기\OpenGlHw\main.cpp(50,39): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+E:\DWD\Users\Desktop\University\3학년 2학기\OpenGlHw\main.cpp(51,40): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+E:\DWD\Users\Desktop\University\3학년 2학기\OpenGlHw\main.cpp(52,41): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+E:\DWD\Users\Desktop\University\3학년 2학기\OpenGlHw\main.cpp(53,40): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+E:\DWD\Users\Desktop\University\3학년 2학기\OpenGlHw\main.cpp(55,35): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+E:\DWD\Users\Desktop\University\3학년 2학기\OpenGlHw\main.cpp(56,40): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+E:\DWD\Users\Desktop\University\3학년 2학기\OpenGlHw\main.cpp(57,43): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+E:\DWD\Users\Desktop\University\3학년 2학기\OpenGlHw\main.cpp(58,38): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+E:\DWD\Users\Desktop\University\3학년 2학기\OpenGlHw\main.cpp(59,44): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+E:\DWD\Users\Desktop\University\3학년 2학기\OpenGlHw\main.cpp(60,46): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+E:\DWD\Users\Desktop\University\3학년 2학기\OpenGlHw\main.cpp(61,41): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+E:\DWD\Users\Desktop\University\3학년 2학기\OpenGlHw\main.cpp(62,41): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+E:\DWD\Users\Desktop\University\3학년 2학기\OpenGlHw\main.cpp(63,41): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+E:\DWD\Users\Desktop\University\3학년 2학기\OpenGlHw\main.cpp(64,41): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+E:\DWD\Users\Desktop\University\3학년 2학기\OpenGlHw\main.cpp(148,39): warning C4244: '인수': 'double'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\DWD\Users\Desktop\University\3학년 2학기\OpenGlHw\main.cpp(148,32): warning C4244: '인수': 'double'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\DWD\Users\Desktop\University\3학년 2학기\OpenGlHw\main.cpp(149,39): warning C4244: '인수': 'double'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\DWD\Users\Desktop\University\3학년 2학기\OpenGlHw\main.cpp(149,32): warning C4244: '인수': 'double'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\DWD\Users\Desktop\University\3학년 2학기\OpenGlHw\main.cpp(150,39): warning C4244: '인수': 'double'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\DWD\Users\Desktop\University\3학년 2학기\OpenGlHw\main.cpp(150,32): warning C4244: '인수': 'double'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\DWD\Users\Desktop\University\3학년 2학기\OpenGlHw\main.cpp(151,39): warning C4244: '인수': 'double'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\DWD\Users\Desktop\University\3학년 2학기\OpenGlHw\main.cpp(151,32): warning C4244: '인수': 'double'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\DWD\Users\Desktop\University\3학년 2학기\OpenGlHw\main.cpp(152,39): warning C4244: '인수': 'double'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\DWD\Users\Desktop\University\3학년 2학기\OpenGlHw\main.cpp(152,32): warning C4244: '인수': 'double'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\DWD\Users\Desktop\University\3학년 2학기\OpenGlHw\main.cpp(153,39): warning C4244: '인수': 'double'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\DWD\Users\Desktop\University\3학년 2학기\OpenGlHw\main.cpp(153,32): warning C4244: '인수': 'double'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\DWD\Users\Desktop\University\3학년 2학기\OpenGlHw\main.cpp(154,39): warning C4244: '인수': 'double'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\DWD\Users\Desktop\University\3학년 2학기\OpenGlHw\main.cpp(154,32): warning C4244: '인수': 'double'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\DWD\Users\Desktop\University\3학년 2학기\OpenGlHw\main.cpp(155,39): warning C4244: '인수': 'double'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\DWD\Users\Desktop\University\3학년 2학기\OpenGlHw\main.cpp(155,32): warning C4244: '인수': 'double'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\DWD\Users\Desktop\University\3학년 2학기\OpenGlHw\main.cpp(156,39): warning C4244: '인수': 'double'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\DWD\Users\Desktop\University\3학년 2학기\OpenGlHw\main.cpp(156,32): warning C4244: '인수': 'double'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\DWD\Users\Desktop\University\3학년 2학기\OpenGlHw\main.cpp(188,31): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+E:\DWD\Users\Desktop\University\3학년 2학기\OpenGlHw\main.cpp(201,36): warning C4244: '인수': 'double'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\DWD\Users\Desktop\University\3학년 2학기\OpenGlHw\main.cpp(201,30): warning C4244: '인수': 'double'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\DWD\Users\Desktop\University\3학년 2학기\OpenGlHw\main.cpp(224,36): warning C4244: '인수': 'double'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\DWD\Users\Desktop\University\3학년 2학기\OpenGlHw\main.cpp(224,30): warning C4244: '인수': 'double'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\DWD\Users\Desktop\University\3학년 2학기\OpenGlHw\main.cpp(247,36): warning C4244: '인수': 'double'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\DWD\Users\Desktop\University\3학년 2학기\OpenGlHw\main.cpp(247,30): warning C4244: '인수': 'double'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\DWD\Users\Desktop\University\3학년 2학기\OpenGlHw\main.cpp(270,36): warning C4244: '인수': 'double'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\DWD\Users\Desktop\University\3학년 2학기\OpenGlHw\main.cpp(270,30): warning C4244: '인수': 'double'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\DWD\Users\Desktop\University\3학년 2학기\OpenGlHw\main.cpp(299,36): warning C4244: '인수': 'double'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\DWD\Users\Desktop\University\3학년 2학기\OpenGlHw\main.cpp(299,30): warning C4244: '인수': 'double'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\DWD\Users\Desktop\University\3학년 2학기\OpenGlHw\main.cpp(317,30): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+E:\DWD\Users\Desktop\University\3학년 2학기\OpenGlHw\main.cpp(330,36): warning C4244: '인수': 'double'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\DWD\Users\Desktop\University\3학년 2학기\OpenGlHw\main.cpp(330,30): warning C4244: '인수': 'double'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\DWD\Users\Desktop\University\3학년 2학기\OpenGlHw\main.cpp(350,30): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+E:\DWD\Users\Desktop\University\3학년 2학기\OpenGlHw\main.cpp(363,36): warning C4244: '인수': 'double'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\DWD\Users\Desktop\University\3학년 2학기\OpenGlHw\main.cpp(363,30): warning C4244: '인수': 'double'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\DWD\Users\Desktop\University\3학년 2학기\OpenGlHw\main.cpp(369,32): warning C4244: '인수': 'double'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\DWD\Users\Desktop\University\3학년 2학기\OpenGlHw\main.cpp(369,26): warning C4244: '인수': 'double'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\DWD\Users\Desktop\University\3학년 2학기\OpenGlHw\main.cpp(370,32): warning C4244: '인수': 'double'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\DWD\Users\Desktop\University\3학년 2학기\OpenGlHw\main.cpp(370,26): warning C4244: '인수': 'double'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\DWD\Users\Desktop\University\3학년 2학기\OpenGlHw\main.cpp(386,30): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+E:\DWD\Users\Desktop\University\3학년 2학기\OpenGlHw\main.cpp(399,36): warning C4244: '인수': 'double'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\DWD\Users\Desktop\University\3학년 2학기\OpenGlHw\main.cpp(399,30): warning C4244: '인수': 'double'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\DWD\Users\Desktop\University\3학년 2학기\OpenGlHw\main.cpp(415,30): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+E:\DWD\Users\Desktop\University\3학년 2학기\OpenGlHw\main.cpp(428,36): warning C4244: '인수': 'double'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\DWD\Users\Desktop\University\3학년 2학기\OpenGlHw\main.cpp(428,30): warning C4244: '인수': 'double'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\DWD\Users\Desktop\University\3학년 2학기\OpenGlHw\main.cpp(457,36): warning C4244: '인수': 'double'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\DWD\Users\Desktop\University\3학년 2학기\OpenGlHw\main.cpp(457,30): warning C4244: '인수': 'double'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다...
+  openGlHomeWork.vcxproj -> E:\DWD\Users\Desktop\University\3학년 2학기\OpenGlHw\Debug\openGlHomeWork.exe
